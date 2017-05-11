@@ -1,0 +1,32 @@
+{
+  "name": "generate-image-preivew",
+  "version": "1.0.0",
+  "description": "generate Preivew and thumb files for images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "genprev": "bin/genpreview"
+  },
+  "keywords": [
+    "image",
+    "preview",
+    "generate",
+    "resize",
+    "thumb"
+  ],
+  "dependencies": {
+    "concurrent-transform": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-image-resize": "^0.8.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {},
+   "engines": {
+    "node": "*"
+  },
+  "author": "Colin6618",
+  "license": "MIT"
+}
