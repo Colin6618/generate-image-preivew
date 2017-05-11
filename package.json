@@ -27,6 +27,7 @@
   "engines": {
     "node": "*"
   },
+  "repository": "Colin6618/generate-image-preivew",
   "author": "Colin6618",
   "license": "MIT"
 }
