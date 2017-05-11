@@ -1,6 +1,6 @@
 {
   "name": "generate-image-preivew",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "generate Preivew and thumb files for images",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "gulp-rename": "^1.2.2"
   },
   "devDependencies": {},
-   "engines": {
+  "engines": {
     "node": "*"
   },
   "author": "Colin6618",
