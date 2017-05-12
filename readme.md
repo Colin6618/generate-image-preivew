@@ -1,11 +1,11 @@
-# generate-image-preivew
+# generate-image-preview
 
 Generate previews and thumbs folders and images.
 
 ### install
 
 ```
-npm install -g generate-image-preivew
+npm install -g generate-image-preview
 ```
 
 ### use
@@ -38,7 +38,7 @@ installation via yum/apt-get/brew depend on the System.
 `genprev [path]`
 
 ```
-var genPrev = require('generate-image-preivew')
+var genPrev = require('generate-image-preview')
 genPrev([..paths])
 
 //genPrev('/home/hello/world')

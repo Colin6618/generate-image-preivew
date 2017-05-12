@@ -1,5 +1,5 @@
 {
-  "name": "generate-image-preivew",
+  "name": "generate-image-preview",
   "version": "1.0.4",
   "description": "generate Preivew and thumb files for images",
   "main": "main.js",
