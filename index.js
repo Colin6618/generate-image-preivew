@@ -29,4 +29,3 @@ gulp.task('prep', ['previews', 'thumbnails']);
 module.exports = function() {
 	gulp.start('prep');
 }
-
